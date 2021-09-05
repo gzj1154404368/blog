@@ -28,3 +28,4 @@
   * [2.7. Docker](2-extend/2.7-Docker)
   * [2.8. Gitlab](2-extend/2.8-Gitlab)
   * [2.9. Maven](2-extend/2.9-Maven)
+* 3\. Other
