@@ -22,7 +22,7 @@
     * [2.1.6 MySQL06](2-extend/MySQL06：事务和索引.md)
     * [2.1.7 MySQL07](2-extend/MySQL07：权限及如何设计数据库.md)
   * [2.3. Nginx](2-extend/2.3-Nginx.md)
-  * [2.4. Readis](2-extend/2.4-Redis.md)
+  * [2.4. Redis](2-extend/2.4-Redis.md)
   * [2.5. Jenkins](2-extend/2.5-Jenkins.md)
   * [2.6. RabbitMQ](2-extend/2.6-RabbitMQ.md)
   * [2.7. Docker](2-extend/2.7-Docker)
