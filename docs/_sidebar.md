@@ -3,8 +3,13 @@
 * 1\. java
   * [1.1. JVM探究](1-java/1.1-JVM探究.md)
   * [1.2. java网络编程](1-java/1.2-网络编程.md)
-  * [1.3. JavaWeb](1-java/1.3-JavaWeb.md)
+  * [1.3. JavaWeb(整理中...)](1-java/1.3-JavaWeb.md)
   * [1.4. juc](1-java/1.4-juc.md)
+  * [1.5. Mybatis](1-java/1.5-Mybatis.md)
+  * [1.6. spring](1-java/1.6-spring.md)
+  * [1.7. springMVC](1-java/1.7-springMVC.md)
+  * [1.8. SpringBoot待整理更新...](1-java/1.8-SpringBoot.md)
+  * [1.9. SpringCloud待整理更新...](1-java/1.8-SpringCloud.md)
 
 * 2\. 拓展
   * 2.1. Linux
@@ -29,4 +34,12 @@
   * [2.8. Gitlab](2-extend/2.8-Gitlab)
   * [2.9. Maven](2-extend/2.9-Maven)
   * [2.10. Nacos](2-extend/2.10-Nacos)
-* 3\. Other
+  * 2.11. MongoDB
+    * [2.11.1. MongoDB相关概念](2-extend/2.11.1-MongoDB相关概念.md)
+    * [2.11.2. MongoDB副本集(待整理...)](2-extend/2.11.2-MongoDB副本集.md)
+* 3\. Other(待整理更新)
+ * 3.1. 踩坑记录
+ * 3.2. 安全
+ * 3.3. 教程
+ * 3.4. 架构
+ * 3.5. 数据库
