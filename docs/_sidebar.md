@@ -9,7 +9,7 @@
   * [1.6. spring](1-java/1.6-spring.md)
   * [1.7. springMVC](1-java/1.7-springMVC.md)
   * [1.8. SpringBoot待整理更新...](1-java/1.8-SpringBoot.md)
-  * [1.9. SpringCloud待整理更新...](1-java/1.8-SpringCloud.md)
+  * [1.9. SpringCloud](1-java/1.8-SpringCloud.md)
 
 * 2\. 拓展
   * 2.1. Linux
